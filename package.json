@@ -1,0 +1,18 @@
+{
+  "name": "faces-hardware-module",
+  "version": "0.0.1",
+  "description": "Hardware control module for 180 Faces platform.",
+  "private": "true",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jefferson Wu <makerjeffwu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express":"latest",
+    "colors":"latest",
+    "socket.io":"latest",
+    "serialport":"latest"
+  }
+}
