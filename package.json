@@ -9,6 +9,10 @@
   },
   "author": "Jefferson Wu <makerjeffwu@gmail.com>",
   "license": "ISC",
+  "respository": {
+    "type":"git",
+    "url":"git@github.com:makerjeff/faces-hardware-module.git"
+  },
   "dependencies": {
     "express":"latest",
     "colors":"latest",
