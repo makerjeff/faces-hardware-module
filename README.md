@@ -5,3 +5,4 @@ Distilled from the research in 'woneighty-faces', this module controls the physi
 
 
 ###Notes
+[Module Patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/8)
