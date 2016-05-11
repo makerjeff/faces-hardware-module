@@ -1,6 +1,6 @@
 {
   "name": "faces-hardware-module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Hardware control module for 180 Faces platform.",
   "private": "true",
   "main": "app.js",
@@ -10,13 +10,21 @@
   "author": "Jefferson Wu <makerjeffwu@gmail.com>",
   "license": "ISC",
   "respository": {
-    "type":"git",
-    "url":"git@github.com:makerjeff/faces-hardware-module.git"
+    "type": "git",
+    "url": "git@github.com:makerjeff/faces-hardware-module.git"
   },
+  "keywords": [
+    "arduino",
+    "controller",
+    "faces"
+  ],
   "dependencies": {
-    "express":"latest",
-    "colors":"latest",
-    "socket.io":"latest",
-    "serialport":"latest"
+    "express": "latest",
+    "colors": "latest",
+    "socket.io": "latest",
+    "serialport": "latest"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
   }
 }
